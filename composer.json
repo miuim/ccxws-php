@@ -1,0 +1,11 @@
+{
+    "name": "miuim/ccxws-php",
+    "description": "A PHP library for connecting to realtime public APIs on some cryptocurrency exchanges with websocket.",
+    "authors": [
+        {
+            "name": "Chuck",
+            "email": "chuck@miu.im"
+        }
+    ],
+    "require": {}
+}
